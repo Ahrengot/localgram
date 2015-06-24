@@ -1,0 +1,15 @@
+# Folders
+node_modules
+public/bower_components
+public/scripts/js
+public/styles/css
+
+# Files
+img/**
+.DS_Store
+Thumbs.db
+.sass-cache
+npm-debug.log
+
+*.sublime-workspace
+*.sublime-project

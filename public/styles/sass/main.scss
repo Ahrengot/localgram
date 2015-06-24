@@ -1,0 +1,37 @@
+@import "util/easing-functions";
+@import "util/mixins";
+
+@import "friends/friend-list";
+@import "friends/friend";
+
+@import "instagram/instagram-gallery";
+@import "instagram/instagram-photo";
+
+@import "search/typeahead";
+
+body {
+	background: white;
+}
+
+.app {
+	margin-top: 15px;
+}
+
+.instagram-photos {
+	max-width: 320px;
+	margin: 6% auto;
+
+	.btn-group {
+		margin: 6% 0;
+	}
+}
+
+.get-location-btn {
+	margin: 20px 0;
+}
+
+footer {
+	border-top: thin solid #eee;
+	margin: 9% 0;
+	padding: 5% 0;
+}

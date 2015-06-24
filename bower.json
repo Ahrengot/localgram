@@ -1,0 +1,18 @@
+{
+  "name": "Project starter",
+  "version": "0.0.1",
+  "authors": [
+    "Jens Ahrengot Boddum <ahrengot@gmail.com>"
+  ],
+  "description": "React.js playground",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "bootstrap": "~3.3.0"
+  }
+}
