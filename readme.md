@@ -1,6 +1,8 @@
 ## Localgram
 Find instagram photos that people post around any given location.
 
+[View demo](http://playground.ahrengot.com/localgram/#/search/40.7127837,-74.0059413@New%20York%2C%20NY%2C%20USA)
+
 ### Features & tech
 - Flux (Using [Reflux](https://github.com/spoike/refluxjs))
 - Geolocation
