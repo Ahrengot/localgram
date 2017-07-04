@@ -1,3 +1,6 @@
+# Instagram changed their API
+*sig* Instagram decided to change their API and you can no longer query for images this way. That means this repo no longer works and it's unlikely it ever will unless Instagram changes their mind and reverts back. 
+
 ## Localgram
 Find instagram photos that people post around any given location.
 
